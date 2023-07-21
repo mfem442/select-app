@@ -12,7 +12,7 @@ const FormCard = () => {
 						src={"zegelmack-blue-logo.png"}
 						width={100}
 						height={100}
-						alt="Picture of the author"
+						alt="Logo Zegelmack"
 					/>
 				</div>
 				<p className="text-center mb-3 mt-2 fs-3 m-5">

@@ -1,11 +1,8 @@
+import React, { useState } from "react";
 import Head from "next/head";
-import Link from "next/link";
 import Form from "../components/Form";
-import styles from "../styles/Home.module.css";
 import Result from "../components/Result";
 import data from "../public/probadoras.json";
-import React, { useState } from "react";
-import greenIcon from "../public/zegelmack-green-logo.png";
 
 export default function Home() {
 	const [result, setResult] = useState(null);

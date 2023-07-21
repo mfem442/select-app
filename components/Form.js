@@ -100,7 +100,7 @@ const Form = ({ onSubmit }) => {
 		<div className="col-12 col-md-8 col-lg-6 col-xl-5 mt-3">
 			<div className="card py-3 px-2">
 				<p className="text-center mb-3 mt-2 fs-3 m-5">
-					¡Encuentra tu opción ideal!
+					¡Encuentra tu Probadora!
 				</p>
 				<form className="myform" onSubmit={handleSubmit}>
 					<div className="form-group ">

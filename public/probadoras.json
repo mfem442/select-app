@@ -1,0 +1,27 @@
+[
+	{
+		"id": "ZK4000",
+		"img": "https://zegelmack.com/landing/probadoras-de-fuga/images/zk-4000.jpg",
+		"info": "https://zegelmack.com/estacion-automatica-zk-4000.html"
+	},
+	{
+		"id": "ZK400",
+		"img": "https://zegelmack.com/landing/probadoras-de-fuga/images/zk-400.png",
+		"info": "https://zegelmack.com/estacion-automatica-zk-400.html"
+	},
+	{
+		"id": "ZK300",
+		"img": "https://zegelmack.com/landing/probadoras-de-fuga/images/ZK300.png",
+		"info": "https://zegelmack.com/estacion-semiautomatica-zk-300.html"
+	},
+	{
+		"id": "ZK200",
+		"img": "https://zegelmack.com/landing/probadoras-de-fuga/images/ZK200.jpg",
+		"info": "https://zegelmack.com/sobremesa-semiautomatica-zk-200.html"
+	},
+	{
+		"id": "ZK100",
+		"img": "https://zegelmack.com/landing/probadoras-de-fuga/images/ZK100.jpg",
+		"info": "https://zegelmack.com/sobremesa-manual-zk-100.html"
+	}
+]

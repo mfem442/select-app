@@ -9,7 +9,7 @@ const FormCard = () => {
 			<div className="card py-3 px-2">
 				<div className="d-flex justify-content-center align-items-center m-3">
 					<Image
-						src="/../public/zegelmack-blue-logo.png"
+						src={"zegelmack-blue-logo.png"}
 						width={100}
 						height={100}
 						alt="Picture of the author"

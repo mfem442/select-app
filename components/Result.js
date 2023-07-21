@@ -1,6 +1,6 @@
 const Result = (props) => {
 	return (
-		<div className="col-12 col-md-8 col-lg-6 col-xl-5 mt-3">
+		<div className="col-12 col-md-8 col-lg-6 col-xl-5 mt-3 mb-3">
 			<div className="card py-3 px-2">
 				{props.id === "" ? (
 					<>

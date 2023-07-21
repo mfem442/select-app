@@ -3,9 +3,9 @@ body{
 }
 .card{
 	border: none;
-	border-top: 5px solid #44757c;
+	border-top: 5px solid #858F46;
 	background: linear-gradient(135deg, #212042d8,#2f2042d8,#212042d8);
-	color: #e0c365e0;
+	color: #ebc55de2;
 }
 p{
 	font-weight: 600;
@@ -41,7 +41,7 @@ p{
 	box-sizing: border-box;
 }
 .division .line{
-	border-top: 1.5px solid #e0c365;;
+	border-top: 1.5px solid #EBC45D;
 	position: absolute;
 	top: 13px;
 	width: 85%;
@@ -78,7 +78,7 @@ p{
 	color: rgba(223, 35, 104, 0.8);
 }
 .form-control:focus{
-	border: 1px solid #e0c365;
+	border: 1px solid #EBC45D;
 	border-radius: 3px;
 	box-shadow: none;
 	background: #21204252;
@@ -95,7 +95,7 @@ p{
     margin-top: 8px!important;
     }
 .btn-primary{
-background: linear-gradient(135deg, #44757c 39%,#878c4c 101%);
+background: linear-gradient(135deg, #0B767C 39%,#878c4c 101%);
 border: none;
 border-radius: 50px;
 }
